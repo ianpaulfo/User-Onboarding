@@ -5,9 +5,17 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: radial-gradient(circle, turquoise, yellow, seagreen);
+  height:100vh;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+user-card{
+  box-shadow:5px 5px 4px;
+  width:29%;
+  margin: 2%;
+  background:whitesmoke;
+} 
